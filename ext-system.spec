@@ -122,106 +122,106 @@ META-package for configure system.
 - UPD: Move to GitHub.
 - UPD: License.
 
-* Tue Dec 03 2019 Package Store <pkgstore@pm.me> - 1.0.9-100
+* Tue Dec 03 2019 Package Store <kitsune.solar@gmail.com> - 1.0.9-100
 - NEW: "data.99" directory.
 
-* Mon Nov 18 2019 Package Store <pkgstore@pm.me> - 1.0.8-100
+* Mon Nov 18 2019 Package Store <kitsune.solar@gmail.com> - 1.0.8-100
 - UPD: SPEC-file.
 
-* Tue Nov 12 2019 Package Store <pkgstore@pm.me> - 1.0.7-100
+* Tue Nov 12 2019 Package Store <kitsune.solar@gmail.com> - 1.0.7-100
 - UPD: Directory names.
 
-* Sat Oct 19 2019 Package Store <pkgstore@pm.me> - 1.0.6-100
+* Sat Oct 19 2019 Package Store <kitsune.solar@gmail.com> - 1.0.6-100
 - UPD: SPEC-file.
 - DEL: Scripts.
 
-* Sun Aug 04 2019 Package Store <pkgstore@pm.me> - 1.0.5-100
+* Sun Aug 04 2019 Package Store <kitsune.solar@gmail.com> - 1.0.5-100
 - NEW: USB install script.
 - UPD: Shell scripts.
 
-* Fri Aug 02 2019 Package Store <pkgstore@pm.me> - 1.0.4-104
+* Fri Aug 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.4-104
 - UPD: Shell scripts.
 
-* Thu Aug 01 2019 Package Store <pkgstore@pm.me> - 1.0.4-103
+* Thu Aug 01 2019 Package Store <kitsune.solar@gmail.com> - 1.0.4-103
 - UPD: Shell scripts.
 
-* Thu Aug 01 2019 Package Store <pkgstore@pm.me> - 1.0.4-102
+* Thu Aug 01 2019 Package Store <kitsune.solar@gmail.com> - 1.0.4-102
 - UPD: Shell scripts.
 
-* Wed Jul 31 2019 Package Store <pkgstore@pm.me> - 1.0.4-101
+* Wed Jul 31 2019 Package Store <kitsune.solar@gmail.com> - 1.0.4-101
 - UPD: SPEC-file.
 
-* Mon Jul 22 2019 Package Store <pkgstore@pm.me> - 1.0.4-100
+* Mon Jul 22 2019 Package Store <kitsune.solar@gmail.com> - 1.0.4-100
 - NEW: "run.sum.sh".
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.3-110
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-110
 - UPD: Shell scripts.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.3-109
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-109
 - UPD: Shell scripts.
 
-* Sat Jul 06 2019 Package Store <pkgstore@pm.me> - 1.0.3-108
+* Sat Jul 06 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-108
 - UPD: Shell scripts.
 
-* Sat Jul 06 2019 Package Store <pkgstore@pm.me> - 1.0.3-107
+* Sat Jul 06 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-107
 - UPD: "run.domain.sh".
 
-* Sat Jul 06 2019 Package Store <pkgstore@pm.me> - 1.0.3-106
+* Sat Jul 06 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-106
 - UPD: "run.acme.sh".
 
-* Fri Jul 05 2019 Package Store <pkgstore@pm.me> - 1.0.3-105
+* Fri Jul 05 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-105
 - UPD: Shell scripts.
 
-* Fri Jul 05 2019 Package Store <pkgstore@pm.me> - 1.0.3-104
+* Fri Jul 05 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-104
 - UPD: "run.acme.sh".
 
-* Fri Jul 05 2019 Package Store <pkgstore@pm.me> - 1.0.3-103
+* Fri Jul 05 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-103
 - UPD: SPEC-file.
 
-* Fri Jul 05 2019 Package Store <pkgstore@pm.me> - 1.0.3-102
+* Fri Jul 05 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-102
 - UPD: Shell scripts.
 
-* Fri Jul 05 2019 Package Store <pkgstore@pm.me> - 1.0.3-101
+* Fri Jul 05 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-101
 - FIX: Shell scripts.
 - FIX: sysctl.
 
-* Thu Jul 04 2019 Package Store <pkgstore@pm.me> - 1.0.3-100
+* Thu Jul 04 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-100
 - NEW: Shell scripts.
 
-* Tue Jul 02 2019 Package Store <pkgstore@pm.me> - 1.0.2-104
+* Tue Jul 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.2-104
 - UPD: SPEC-file.
 
-* Tue Jul 02 2019 Package Store <pkgstore@pm.me> - 1.0.2-103
+* Tue Jul 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.2-103
 - UPD: Directory structure.
 
-* Sun Apr 14 2019 Package Store <pkgstore@pm.me> - 1.0.2-102
+* Sun Apr 14 2019 Package Store <kitsune.solar@gmail.com> - 1.0.2-102
 - UPD: Directory structure.
 
-* Sun Apr 14 2019 Package Store <pkgstore@pm.me> - 1.0.2-101
+* Sun Apr 14 2019 Package Store <kitsune.solar@gmail.com> - 1.0.2-101
 - UPD: Directory structure.
 
-* Sun Apr 14 2019 Package Store <pkgstore@pm.me> - 1.0.2-100
+* Sun Apr 14 2019 Package Store <kitsune.solar@gmail.com> - 1.0.2-100
 - UPD: Directory structure.
 - DEL: System scripts.
 
-* Sun Apr 14 2019 Package Store <pkgstore@pm.me> - 1.0.1-101
+* Sun Apr 14 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-101
 - UPD: Directory structure.
 
-* Sat Apr 13 2019 Package Store <pkgstore@pm.me> - 1.0.1-100
+* Sat Apr 13 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-100
 - UPD: Directory structure.
 - NEW: User "sys_backup".
 
-* Sat Apr 13 2019 Package Store <pkgstore@pm.me> - 1.0.0-104
+* Sat Apr 13 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-104
 - UPD: Directory structure.
 
-* Mon Apr 08 2019 Package Store <pkgstore@pm.me> - 1.0.0-103
+* Mon Apr 08 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-103
 - UPD: Requires.
 
-* Sat Mar 30 2019 Package Store <pkgstore@pm.me> - 1.0.0-102
+* Sat Mar 30 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-102
 - UPD: Directory structure.
 
-* Sat Mar 30 2019 Package Store <pkgstore@pm.me> - 1.0.0-101
+* Sat Mar 30 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-101
 - UPD: Shell scripts.
 
-* Wed Jan 02 2019 Package Store <pkgstore@pm.me> - 1.0.0-100
+* Wed Jan 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-100
 - Initial build.
