@@ -21,7 +21,7 @@
 
 %global d_sysctl                %{_sysconfdir}/sysctl.d
 
-%global release_prefix          100
+%global release_prefix          101
 
 Name:                           ext-system
 Version:                        1.0.10
@@ -120,6 +120,9 @@ META-package for configure system.
 
 
 %changelog
+* Fri Jun 18 2021 Package Store <kitsune.solar@gmail.com> - 1.0.10-101
+- UPD: New build for latest changes.
+
 * Thu Jun 17 2021 Package Store <kitsune.solar@gmail.com> - 1.0.10-100
 - UPD: Move to GitHub.
 - UPD: License.
