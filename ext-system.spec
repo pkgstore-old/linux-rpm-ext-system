@@ -28,6 +28,8 @@ Version:                        1.0.10
 Release:                        %{release_prefix}%{?dist}
 Summary:                        META-package for configure system
 License:                        MIT
+Vendor:                         Package Store <https://pkgstore.github.io>
+Packager:                       Kitsune Solar <kitsune.solar@gmail.com>
 
 Source10:                       00-sysctl.custom.conf
 
